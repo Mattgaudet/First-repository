@@ -2,7 +2,7 @@ import java.util.ArrayList;
 //https://github.com/Mattgaudet/First-repository.git
 
 /**
- * My new documentation
+ * My new documentation / on github
  */
 public class AddressBook {
     ArrayList<BuddyInfo> infoList;
